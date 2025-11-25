@@ -14,12 +14,12 @@ ML Game
     - [Effort Matrix](FallAssignments/Assignment6/Assignment6.pdf)
 5. [ABET Concerns Essay](FallAssignments/Assignment7/Assignment7ProjectConstraints-1.pdf)
 6. [PPT Slideshow](FallAssignments/Assignment8/FallDesignPresentation.pptx) (includes ABET Concerns) (Assignment #8)
-7. [Self-Assessment Essays](not yet added) (Assignment #3)
-8. [Professional Biographies](FallAssignments/Assignment1/andrew_towns.md)  (Assignment #1)
+7. [Self-Assessment Essays](FallAssignments/Assignment3/) (Assignment #3)
+8. [Professional Biographies](FallAssignments/Assignment1/)  (Assignment #1)
 9. [Budget](FallAssignments/budget.md)
     - expenses to date or statement that there have not been any.
     - show monetary value of donated items and donation sources.
-10. [Appendix]()
+10. [Appendix](FallAssignments/Appendix.md)
     - include appropriate references, citations, links to code repositories, and meeting notes.
     - there should be evidence justifying 45 hours of effort for each team member.
 
