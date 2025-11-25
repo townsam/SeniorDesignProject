@@ -1,0 +1,1 @@
+There have been no costs or monetary contributions to the project to date.
