@@ -2,8 +2,8 @@
 ML Game
 
 # Table of Contents for Fall Design Report
-1. Team names (include Advisor) and Project Abstract (limit of 400 ascii chars)
-2. Project Description (Assignment #2)
+1. [Team names and Project Abstract](FallAssignments/ProjectAbstract.md)
+2. [Project Description](FallAssignments/Assignment2/ProjectDescription.md)
 3. [User Stories](FallAssignments/Assignment4/UserStories.md) and [Design Diagrams](FallAssignments/Assignment4/Design_Diagrams/DesignDiagram.pdf) (Assignment #4)
     - [User Stories](FallAssignments/Assignment4/UserStories.md)
     - Design Diagrams: [Level 0](FallAssignments/Assignment4/Design_Diagrams/DesignDiagram.pdf), [Level 1](FallAssignments/Assignment4/Design_Diagrams/DesignDiagram.pdf) and [Level 2](FallAssignments/Assignment4/Design_Diagrams/DesignDiagram.pdf)
