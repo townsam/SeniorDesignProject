@@ -1,5 +1,5 @@
 # SeniorDesignProject
-ML Game
+G.A.S.P.U.M.L
 
 # Table of Contents for Fall Design Report
 1. [Team names and Project Abstract](FallAssignments/ProjectAbstract.md)
