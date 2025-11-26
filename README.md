@@ -10,8 +10,8 @@ ML Game
     - Description of the Diagrams: [Design Diagram Description](FallAssignments/Assignment4/Design_Diagrams/DesignDiagramDescription.md) — includes conventions and a brief description of the purpose of each component.
 4. Project Tasks and Timeline (Assignment #5-6)
     - [Task List](FallAssignments/Assignment5/Tasks.md)
-    - [Timeline](FallAssignments/Assignment6/Assignment6.pdf)
-    - [Effort Matrix](FallAssignments/Assignment6/Assignment6.pdf)
+    - [Timeline](FallAssignments/Assignment6/Timeline.md)
+    - [Effort Matrix](FallAssignments/Assignment6/EffortMatrix.md)
 5. [ABET Concerns Essay](FallAssignments/Assignment7/Assignment7ProjectConstraints-1.pdf)
 6. [PPT Slideshow](FallAssignments/Assignment8/FallDesignPresentation.pptx) (includes ABET Concerns) (Assignment #8)
 7. [Self-Assessment Essays](FallAssignments/Assignment3/) (Assignment #3)
