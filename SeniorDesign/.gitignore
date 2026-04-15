@@ -1,0 +1,65 @@
+# Unity (keep: Assets/, Packages/, ProjectSettings/)
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Unity auto-generated solutions/projects
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.VC.VC.opendb
+
+# Rider / VS / VSCode
+.idea/
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# ML-Agents / training outputs (generated)
+results/
+**/*.onnx
+**/*.tfevents.*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+.python-version
+.pytest_cache/
+
+# Local venvs (do not commit)
+.venv/
+.venv-mlagents/
+venv/
+env/
+
+# Local config/secrets (if any)
+.env
+.env.*
+
+# Unity package-lock "private" merge sidecars
+Packages/packages-lock.json.private.*
+Packages/manifest.json.private.*
+

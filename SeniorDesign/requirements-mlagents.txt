@@ -1,0 +1,15 @@
+# Unity ML-Agents 1.1.0 — reproducible trainer venv
+# Install: see Setup-MLAgentsVenv.ps1 or:
+#   .venv-mlagents\Scripts\pip install -r requirements-mlagents.txt
+#
+# PyTorch 2.9+ defaults torch.onnx.export to dynamo=True, which requires onnxscript
+# and conflicts with mlagents' pins (onnx==1.15, protobuf<3.21). Cap torch to <2.9.
+torch>=2.1.1,<2.9
+
+mlagents==1.1.0
+protobuf==3.20.3
+onnx==1.15.0
+numpy>=1.23.5,<1.24.0
+
+# setuptools 81+ deprecates pkg_resources (warning from mlagents/torch stack).
+setuptools>=65,<81

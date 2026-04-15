@@ -23,3 +23,12 @@ G.A.S.P.U.M.L
     - include appropriate references, citations, links to code repositories, and meeting notes.
     - there should be evidence justifying 45 hours of effort for each team member.
 
+---
+
+# Table of Contents for Spring Assignments
+1. [Final Design Report](SpringAssignments/FinalDesignReport.md)
+2. [User Guide & Manual](SpringAssignments/UserDocs.md)
+3. [Test Plan](SpringAssignments/TestPlan.md)
+4. [Self Assessments](SpringAssignments/Assessments)
+5. [Spring Design Presentation](SpringAssignments/SpringDesignPresentation.pptx)
+6. [Final Expo Poster](SpringAssignments/poster.png)

@@ -11,6 +11,7 @@ public class ActorBehavior : MonoBehaviour
     [Header("Movement Settings")]
     public float speed = 3f;
     public float jumpForce = 5f;
+    public bool usePlannedMovement = true;
     public int plannedSteps = 50;
     public float minStepDuration = 1.0f;
     public float maxStepDuration = 3.0f;
@@ -35,6 +36,8 @@ public class ActorBehavior : MonoBehaviour
 
     void FixedUpdate()
     {
+        if (!usePlannedMovement) return;
+
         if (currentStep >= movementPlan.Count) return;
 
         // Check if it's time to move to the next step
@@ -87,9 +90,19 @@ public class ActorBehavior : MonoBehaviour
         }
     }
 
-    bool IsGrounded()
+    public bool IsGrounded()
     {
+        if (groundCheck == null)
+        {
+            return false;
+        }
+
         return Physics.CheckSphere(groundCheck.position, groundCheckRadius, groundLayer);
+    }
+
+    public void SetPlannedMovementEnabled(bool enabled)
+    {
+        usePlannedMovement = enabled;
     }
 
     public void InitializeWithSeed(int seed)
