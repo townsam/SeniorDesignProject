@@ -1,8 +1,8 @@
 ## CS5002 — Final Design Report
 
 **Project**: G.A.S.P.U.M.L (Game About Solving Puzzles Using Machine Learning)  
-**Repository**: `../README.md`  
-**Unity version**: `6000.2.7f2` (see `../SeniorDesign/ProjectSettings/ProjectVersion.txt`)
+**Repository**: [Repository README](../README.md)  
+**Unity version**: `6000.2.7f2` (see [ProjectVersion.txt](../SeniorDesign/ProjectSettings/ProjectVersion.txt))
 
 **Advisor**: Badri Vellambi  
 **Team**:
@@ -52,16 +52,16 @@ The project includes:
   - inference-mode toggle in the menu that imports a recent `.onnx` model
 
 ### How to run
-- Start scene: `../SeniorDesign/Assets/Scenes/MainMenu.unity`
-- Demo runbook: `../SeniorDesign/Docs/DEMO_CHECKLIST.md`
+- Start scene: [MainMenu.unity](../SeniorDesign/Assets/Scenes/MainMenu.unity)
+- Demo runbook: [DEMO_CHECKLIST.md](../SeniorDesign/Docs/DEMO_CHECKLIST.md)
 
 ### Scenes included in builds (Unity Build Settings)
 Scenes are included in this order:
-- `Assets/Scenes/MainMenu.unity`
-- `Assets/Scenes/Level01.unity`
-- `Assets/Scenes/Level02.unity`
-- `Assets/Scenes/SampleScene.unity`
-- `Assets/Scenes/Level03.unity`
+- [MainMenu.unity](../SeniorDesign/Assets/Scenes/MainMenu.unity)
+- [Level01.unity](../SeniorDesign/Assets/Scenes/Level01.unity)
+- [Level02.unity](../SeniorDesign/Assets/Scenes/Level02.unity)
+- [SampleScene.unity](../SeniorDesign/Assets/Scenes/SampleScene.unity)
+- [Level03.unity](../SeniorDesign/Assets/Scenes/Level03.unity)
 
 ---
 
@@ -80,14 +80,14 @@ Scenes are included in this order:
   - hover feedback (short → long name + bottom hint)
 
 ### UI artifacts (screenshots)
-- Expo poster (includes UI screenshots): `poster.png`
+- Expo poster (includes UI screenshots): [poster.png](poster.png)
 
 ---
 
 ## 3. Test plan and results
 
 ### Test plan
-- `TestPlan.md`
+- [TestPlan.md](TestPlan.md)
 
 ### Test execution summary (results)
 Testing was executed continuously through implementation via playtests and the demo runbook. The following items were validated:
@@ -99,31 +99,31 @@ Testing was executed continuously through implementation via playtests and the d
 - **Optional ML smoke training** is documented and has been validated via trainer connection + TensorBoard.
 
 **Evidence in repo**:
-- `../SeniorDesign/Docs/Playable_State_Roadmap.md` (MVP checklist marked complete)
-- `../SeniorDesign/README_HANDOVER.md` (append-only log of changes and validations)
-- `../SeniorDesign/Docs/DEMO_CHECKLIST.md` (demo runbook)
-- `../SeniorDesign/Docs/Scene_Inspector_Checklist.md` (scene wiring validation checklist)
+- [Playable_State_Roadmap.md](../SeniorDesign/Docs/Playable_State_Roadmap.md) (MVP checklist marked complete)
+- [README_HANDOVER.md](../SeniorDesign/README_HANDOVER.md) (append-only log of changes and validations)
+- [DEMO_CHECKLIST.md](../SeniorDesign/Docs/DEMO_CHECKLIST.md) (demo runbook)
+- [Scene_Inspector_Checklist.md](../SeniorDesign/Docs/Scene_Inspector_Checklist.md) (scene wiring validation checklist)
 
 ---
 
 ## 4. User manual
 
 User Guide & Manual (includes FAQ):
-- `UserDocs.md`
+- [UserDocs.md](UserDocs.md)
 
 ---
 
 ## 5. Spring final presentation
 
 Presentation slides:
-- `SpringDesignPresentation.pptx`
+- [SpringDesignPresentation.pptx](SpringDesignPresentation.pptx)
 
 ---
 
 ## 6. Final expo poster
 
 Poster:
-- `poster.png`
+- [poster.png](poster.png)
 
 Preview:
 
@@ -135,15 +135,15 @@ Preview:
 
 ### 7.1 Initial self-assessments (Fall)
 Fall self-assessment essays:
-- Andrew: `../FallAssignments/Assignment3/andrew_towns_capstone_assessment_essay.md`
-- Shawn: `../FallAssignments/Assignment3/ShawnCapstoneAssessment.md`
-- Nathan: `../FallAssignments/Assignment3/NathanielHafelySelf-AssessmentEssay.pdf`
-- Folder (includes team contract): `../FallAssignments/Assignment3/`
+- Andrew: [andrew_towns_capstone_assessment_essay.md](../FallAssignments/Assignment3/andrew_towns_capstone_assessment_essay.md)
+- Shawn: [ShawnCapstoneAssessment.md](../FallAssignments/Assignment3/ShawnCapstoneAssessment.md)
+- Nathan: [NathanielHafelySelf-AssessmentEssay.pdf](../FallAssignments/Assignment3/NathanielHafelySelf-AssessmentEssay.pdf)
+- Folder (includes team contract): [FallAssignments/Assignment3/](../FallAssignments/Assignment3/)
 
 ### 7.2 Final self-assessments (Spring)
 **Status**: Not currently in this repository.  
 Spring self-assessment essays:
-- Andrew `Assessments/Reflection_Towns.pdf`
+- Andrew: [Reflection_Towns.pdf](Assessments/Reflection_Towns.pdf)
 
 ---
 
@@ -159,8 +159,8 @@ Spring self-assessment essays:
 | *(Name)* | *(TBD)* | *(TBD)* | *(TBD)* | *(TBD)* |
 
 ### Justification evidence (recommended links)
-- `../SeniorDesign/README_HANDOVER.md` (dated engineering log with validations)
-- `Unity Change sets.pdf` (Unity version control main branch commits)
+- [README_HANDOVER.md](../SeniorDesign/README_HANDOVER.md) (dated engineering log with validations)
+- [Unity Change sets.pdf](Unity%20Change%20sets.pdf) (Unity version control main branch commits)
 - *(add meeting notes folder/files here)* e.g. `../SeniorDesign/Docs/MeetingNotes/`
 
 ---
@@ -178,18 +178,18 @@ Expense Table:
 ## 10. Appendix
 
 ### Key project docs
-- Demo runbook: `../SeniorDesign/Docs/DEMO_CHECKLIST.md`
-- Scene wiring checklist: `../SeniorDesign/Docs/Scene_Inspector_Checklist.md`
-- Playable MVP checklist: `../SeniorDesign/Docs/Playable_State_Roadmap.md`
-- Test plan: `TestPlan.md`
-- User manual: `UserDocs.md`
-- Engineering log / work evidence: `../SeniorDesign/README_HANDOVER.md`
-- Mac trainer setup: `../SeniorDesign/README_MAC_SETUP.md`
+- Demo runbook: [DEMO_CHECKLIST.md](../SeniorDesign/Docs/DEMO_CHECKLIST.md)
+- Scene wiring checklist: [Scene_Inspector_Checklist.md](../SeniorDesign/Docs/Scene_Inspector_Checklist.md)
+- Playable MVP checklist: [Playable_State_Roadmap.md](../SeniorDesign/Docs/Playable_State_Roadmap.md)
+- Test plan: [TestPlan.md](TestPlan.md)
+- User manual: [UserDocs.md](UserDocs.md)
+- Engineering log / work evidence: [README_HANDOVER.md](../SeniorDesign/README_HANDOVER.md)
+- Mac trainer setup: [README_MAC_SETUP.md](../SeniorDesign/README_MAC_SETUP.md)
 
 ### Technical references
-- Unity packages: `../SeniorDesign/Packages/manifest.json` (includes `com.unity.ml-agents`)
-- Trainer config: `../SeniorDesign/Assets/ML-Agents/actor_ppo.yaml`
+- Unity packages: [manifest.json](../SeniorDesign/Packages/manifest.json) (includes `com.unity.ml-agents`)
+- Trainer config: [actor_ppo.yaml](../SeniorDesign/Assets/ML-Agents/actor_ppo.yaml)
 - ML environment setup scripts:
-  - `../SeniorDesign/Setup-MLAgentsVenv.ps1` / `../SeniorDesign/Setup-MLAgentsVenv.cmd` / `../SeniorDesign/Setup-MLAgentsVenv.sh`
-  - `../SeniorDesign/Start-MLSmoke.ps1` / `../SeniorDesign/Start-MLSmoke.cmd` / `../SeniorDesign/Start-MLSmoke.sh`
-  - `../SeniorDesign/Stop-MLSmoke.ps1` / `../SeniorDesign/Stop-MLSmoke.cmd` / `../SeniorDesign/Stop-MLSmoke.sh`
+  - [Setup-MLAgentsVenv.ps1](../SeniorDesign/Setup-MLAgentsVenv.ps1) / [Setup-MLAgentsVenv.cmd](../SeniorDesign/Setup-MLAgentsVenv.cmd) / [Setup-MLAgentsVenv.sh](../SeniorDesign/Setup-MLAgentsVenv.sh)
+  - [Start-MLSmoke.ps1](../SeniorDesign/Start-MLSmoke.ps1) / [Start-MLSmoke.cmd](../SeniorDesign/Start-MLSmoke.cmd) / [Start-MLSmoke.sh](../SeniorDesign/Start-MLSmoke.sh)
+  - [Stop-MLSmoke.ps1](../SeniorDesign/Stop-MLSmoke.ps1) / [Stop-MLSmoke.cmd](../SeniorDesign/Stop-MLSmoke.cmd) / [Stop-MLSmoke.sh](../SeniorDesign/Stop-MLSmoke.sh)
