@@ -155,7 +155,7 @@ Spring self-assessment essays:
 ### Required summary (fill in)
 | Team member | Fall hours | Spring hours | Year total | Estimated $ (if required) |
 |---|---:|---:|---:|---:|
-| *(Name)* | *(TBD)* | *(TBD)* | *(TBD)* | *(TBD)* |
+| Nathaniel | 47 | 52 | 99 | $0 |
 | *(Name)* | *(TBD)* | *(TBD)* | *(TBD)* | *(TBD)* |
 | *(Name)* | *(TBD)* | *(TBD)* | *(TBD)* | *(TBD)* |
 
