@@ -144,6 +144,7 @@ Fall self-assessment essays:
 **Status**: Not currently in this repository.  
 Spring self-assessment essays:
 - Andrew: [Reflection_Towns.pdf](Assessments/Reflection_Towns.pdf)
+- Nathaniel: [SelfAssessment.pdf](Assessments/SelfAssessment.pdf)
 
 ---
 
