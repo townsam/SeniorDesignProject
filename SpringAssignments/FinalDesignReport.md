@@ -156,7 +156,7 @@ Spring self-assessment essays:
 | Team member | Fall hours | Spring hours | Year total | Estimated $ (if required) |
 |---|---:|---:|---:|---:|
 | Nathaniel | 47 | 52 | 99 | $0 |
-| *(Name)* | *(TBD)* | *(TBD)* | *(TBD)* | *(TBD)* |
+| Andrew | 47 | 60 | 107 | $0 |
 | *(Name)* | *(TBD)* | *(TBD)* | *(TBD)* | *(TBD)* |
 
 ### Justification evidence (recommended links)
