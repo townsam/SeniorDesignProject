@@ -145,6 +145,7 @@ Fall self-assessment essays:
 Spring self-assessment essays:
 - Andrew: [Reflection_Towns.pdf](Assessments/Reflection_Towns.pdf)
 - Nathaniel: [SelfAssessment.pdf](Assessments/SelfAssessment.pdf)
+- Shawn: [Shawn Lasrado SelfAssessment.pdf](Assessments/Shawn_Lasrado_SelfAssessment.pdf)
 
 ---
 
@@ -157,7 +158,7 @@ Spring self-assessment essays:
 |---|---:|---:|---:|---:|
 | Nathaniel | 47 | 52 | 99 | $0 |
 | Andrew | 47 | 60 | 107 | $0 |
-| *(Name)* | *(TBD)* | *(TBD)* | *(TBD)* | *(TBD)* |
+| Shawn | 44 | 48 | 92 | $0 |
 
 ### Justification evidence (recommended links)
 - [README_HANDOVER.md](../SeniorDesign/README_HANDOVER.md) (dated engineering log with validations)
